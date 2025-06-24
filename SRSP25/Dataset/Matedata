@@ -15,3 +15,15 @@ To match the fake news data collected for kaggle.com, we focused mostly on colle
 The data collected was cleaned and processed; however, the punctuation and mistakes that existed in the fake news were kept in the text.
 
 The following table gives a breakdown of the categories and the number of articles per category.
+
+
+| **News**      | **Size (Number of Articles)** | **Subjects** | **Type**          | **Articles Size** |
+| ------------- | ----------------------------- | ------------ | ----------------- | ----------------- |
+| **Real-News** | 21,417                        |              | *World-News*      | 10,145            |
+|               |                               |              | *Politics-News*   | 11,272            |
+| **Fake-News** | 23,481                        |              | *Government-News* | 1,570             |
+|               |                               |              | *Middle-east*     | 778               |
+|               |                               |              | *US News*         | 783               |
+|               |                               |              | *Left-news*       | 4,459             |
+|               |                               |              | *Politics*        | 6,841             |
+|               |                               |              | *News*            | 9,050             |
